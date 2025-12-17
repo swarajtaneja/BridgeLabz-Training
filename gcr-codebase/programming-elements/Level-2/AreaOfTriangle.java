@@ -4,8 +4,8 @@ public class AreaOfTriangle{
         Scanner input = new Scanner(System.in);
          
 
-        double base = input.nextInt();
-        double height = input.nextInt();
+        double base = input.nextDouble();
+        double height = input.nextDouble();
 
         //Calculating the area of triangle.
         double areaInCm = 0.5 * base * height ;
