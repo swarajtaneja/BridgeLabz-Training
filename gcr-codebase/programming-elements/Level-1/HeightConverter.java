@@ -6,7 +6,7 @@ public class HeightConverter{
         Scanner input = new Scanner(System.in);
          
         //Taking height Details as input.
-        double height = input.nextInt();
+        double height = input.nextDouble();
 
         //Converting the height into inches.
         double heightInInches = height / 2.54;
