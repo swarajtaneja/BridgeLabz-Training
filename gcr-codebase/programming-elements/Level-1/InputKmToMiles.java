@@ -5,7 +5,7 @@ public class InputKmToMiles{
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
 
-        double km = input.nextInt();
+        double km = input.nextDouble();
 
         double newMiles = (km * 1.6);
         
