@@ -10,7 +10,7 @@ public class InputDiscountedFee{
         int fee = input.nextInt();
 
         //Taking University discount Details as input.
-        double discountPercent = input.nextInt();
+        double discountPercent = input.nextDouble();
 
         double discount = (fee * discountPercent) /100;
         
