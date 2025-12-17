@@ -4,8 +4,8 @@ public class BasicCalculator{
         Scanner input = new Scanner(System.in);
          
 
-        float number1 = input.nextInt();
-        float number2 = input.nextInt();
+        float number1 = input.nextFloat();
+        float number2 = input.nextFloat();
         float addition = (number1 + number2);
         float subtraction = (number1 - number2);
         float multiplication = (number1 * number2);
