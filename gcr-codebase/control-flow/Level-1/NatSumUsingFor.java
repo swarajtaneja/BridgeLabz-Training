@@ -8,13 +8,19 @@ public class NatSumUsingFor{
 
         System.out.print("Enter Number : ");
         number = input.nextInt();
-        n = number*(number + 1) / 2;     
+        n = number*(number + 1) / 2; 
+
+        if(number > (-1))  {
+             for(int i = number;i>0;i--){   
+                   sum+=i;
+                                        }
+             if(sum == n){
+                 System.out.println("The result From both computations was correct");
+                         }
+                            }
+        else{
+            System.out.println("The number " + number + " is not a natural number");
+            }
         
-        for(int i = number;i>0;i--){   
-            sum+=i;
-                   }
-        if(sum == n){
-         System.out.println("The result From both computations was correct");
-                    }
                                           }
                               }
