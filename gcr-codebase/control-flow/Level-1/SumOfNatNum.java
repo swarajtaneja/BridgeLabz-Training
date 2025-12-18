@@ -10,12 +10,18 @@ public class SumOfNatNum{
         number = input.nextInt();
         n = number*(number + 1) / 2;     
         
-        while(number>0){   
-            sum+=number;
-            number--;
-                   }
-        if(sum == n){
-         System.out.println("The result From both computations was correct");
-                    }
+        if(number > (-1))  {
+             while(number>0){   
+                 sum+=number;
+                 number--;
+                            }
+             if(sum == n){
+                 System.out.println("The result From both computations was correct");
+                         }
+                            }
+        else{
+            System.out.println("The number " + number + " is not a natural number");
+            }
+        
                                           }
                               }
