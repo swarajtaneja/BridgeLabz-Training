@@ -12,7 +12,7 @@ public class MultipleUsingForLoop{
         if(number>0 && number<100){
               System.out.print("The Multiples of Number "+number+" is : ");
               
-              for(int i=100;i>1;i--){
+              for(int i=number-1;i>1;i--){
                   if(number%i==0){
                       System.out.print(i+"  ");
                                   }
