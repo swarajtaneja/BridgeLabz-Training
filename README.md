@@ -162,3 +162,27 @@ C:.
   **Notes source:** <br>
   👉[Built in functions 1](https://classroom.google.com/c/ODIxNjE3NTg5MDE1/m/ODIxNjE3NTg5MDU5/details) , 
   👉[Built in functions 2](https://classroom.google.com/c/ODIxNjE3NTg5MDE1/m/ODIxNjE3NTg5MDU5/details)
+
+
+    ## 📅 Day 3 - Scenario Based and Leetcode based
+   --- Scenario based Day-1
+**Date:** 24-Dec-2025
+     -Solved Two Scenario-based Problems   
+	
+  🔗 **Code Link:** <br>
+  👉[Day-1 Coffee Counyter](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-1/CoffeeShop.java)
+  👉[Day-1 BMI Fitness Tracker](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-1/BMIFitnessTracker.java)
+  
+
+  --- Leetcode Practice Day 1
+**Date:** 24-Dec-2025
+   - Solved Below problems on leetcode
+     - [Two Sum](https://leetcode.com/problems/two-sum/description/)
+     - [Longest Common Prefix](https://leetcode.com/problems/two-sum/description/)
+     - [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)
+     - [Container with most water](https://leetcode.com/problems/remove-element/description/)
+     - [Remove duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)    
+  🔗 **Code Link:** <br>
+  👉[Code of above Problems](https://github.com/swarajtaneja/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays/day-1)
+
+  ---
