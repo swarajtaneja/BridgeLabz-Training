@@ -224,3 +224,15 @@ C:.
   👉[Code of above Problems](https://github.com/swarajtaneja/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/strings/day-3)
 
   ---
+  
+  ## 📅 Day 6 - Leetcode based
+  --- Leetcode Practice 4
+**Date:** 27-Dec-2025
+   - Solved Below problems on leetcode
+     - [String to Integer](https://leetcode.com/problems/string-to-integer-atoi/description/)
+     - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)
+     - [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)
+     - [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)
+     - [Add Binary](https://leetcode.com/problems/add-binary/description/)
+  🔗 **Code Link:** <br>
+  👉[Code of above Problems](https://github.com/swarajtaneja/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/strings/day-4)
