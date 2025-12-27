@@ -174,7 +174,7 @@ C:.
   👉[Day-1 BMI Fitness Tracker](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-1/BMIFitnessTracker.java)
   
 
-  --- Leetcode Practice practice 1
+  --- Leetcode Practice 1
 **Date:** 24-Dec-2025
    - Solved Below problems on leetcode
      - [Two Sum](https://leetcode.com/problems/two-sum/description/)
@@ -187,19 +187,9 @@ C:.
 
   ---
   
-## 📅 Day 4 - Scenario Based and Leetcode based
-   --- Scenario based practice-2
-**Date:** 26-Dec-2025
-     -Solved Three Scenario-based Problems   
-	
-  🔗 **Code Link:** <br>
-  👉[Day-2 Election Booth Manager](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-2/ElectionBoothManager.java)
-  👉[Day-2 Metro Smart Card Fare Deduction](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-2/MetroSmartCard.java)
-  👉[Day-2 Raj’s Result Generator](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-2/ResultGenerator.java)
-  
-
-  --- Leetcode Practice practice 2
-**Date:** 26-Dec-2025
+## 📅 Day 4 - Leetcode based
+  --- Leetcode Practice 2
+**Date:** 25-Dec-2025
    - Solved Below problems on leetcode
      - [Plus One](https://leetcode.com/problems/plus-one/description/)
      - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
