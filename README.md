@@ -122,7 +122,7 @@ C:.
 ---
 
 
-# Week2 : Worked on Strings and Extras Problems
+# Week 2 : Worked on Strings and Extras Problems
 
 ---
 ## 📅 Day 1 – Strings Concepts & Problems  
@@ -201,7 +201,7 @@ C:.
 
   ---
     
-  ## 📅 Day 5 - Scenario Based and Leetcode based
+ ## 📅 Day 5 - Scenario Based and Leetcode based
    --- Scenario based practice-2
 **Date:** 26-Dec-2025
      -Solved Three Scenario-based Problems   
@@ -225,7 +225,7 @@ C:.
 
   ---
   
-  ## 📅 Day 6 - Leetcode based
+ ## 📅 Day 6 - Leetcode based
   --- Leetcode Practice 4
 **Date:** 27-Dec-2025
    - Solved Below problems on leetcode
@@ -255,5 +255,31 @@ C:.
   🔗 **Code Link:** <br>
   👉[Code of above Problems](https://github.com/swarajtaneja/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays/day-5)
 
+# Week 3 : Solved Problems
+    
+  ## 📅 Day 1 - Scenario Based and Leetcode based
+   --- Scenario based practice-3
+**Date:** 29-Dec-2025
+     -Solved Five Scenario-based Problems   
+	
+  🔗 **Code Link:** <br>
+  👉[Day-3 Parking Lot](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-3/ParkingLot.java)
+  👉[Day-3 Number Guessing Game](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-3/NumberGuess.java)
+  👉[Day-3 Shopping Bill](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-3/ShoppingDiscount.java)
+  👉[Day-3 Student Bus Attaindance](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-3/BusAttaindance.java)
+  👉[Day-3 Phone Recharge](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-3/PhoneRecharge.java)
+  
 
+  --- Leetcode Practice practice 6
+**Date:** 29-Dec-2025
+   - Solved Below problems on leetcode
+     - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)
+     - [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)
+     - [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)
+     - [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/)
+     - [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/)    
+  🔗 **Code Link:** <br>
+  👉[Code of above Problems](https://github.com/swarajtaneja/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/strings/day-6)
+
+  ---
 
