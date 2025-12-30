@@ -282,4 +282,32 @@ C:.
   👉[Code of above Problems](https://github.com/swarajtaneja/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/strings/day-6)
 
   ---
+  
+  
+  ## 📅 Day 2 - Scenario Based and Leetcode based
+   --- Scenario based practice-4
+**Date:** 30-Dec-2025
+     -Solved Five Scenario-based Problems   
+	
+  🔗 **Code Link:** <br>
+  👉[Day-4 Temperature Logger](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-4/TemperatureLogger.java)
+  👉[Day-4 Train Booking System](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-4/TrainBookingSystem.java)
+  👉[Day-4 Sandeep's Fitness Tracker](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-4/FitnessTracker.java)
+  👉[Day-4 Movie Ticket Booking](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-4/MovieTicketBooking.java)
+  👉[Day-4 LibraryFineCalculator](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-4/LibraryFineCalculator.java)
+  
+
+  --- Leetcode Practice practice 7
+**Date:** 30-Dec-2025
+   - Solved Below problems on leetcode
+     - [Reverse String](https://leetcode.com/problems/reverse-string/description/)
+     - [Word Pattern](https://leetcode.com/problems/word-pattern/description/)
+     - [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/)
+     - [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/)
+     - [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)    
+  🔗 **Code Link:** <br>
+  👉[Code of above Problems](https://github.com/swarajtaneja/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/strings/day-7)
+
+  ---
+
 
