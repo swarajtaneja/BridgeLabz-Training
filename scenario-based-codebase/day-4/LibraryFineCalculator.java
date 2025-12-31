@@ -20,7 +20,7 @@ public class LibraryFineCalculator {
                 System.out.println("Late by " + lateDays + " days");
                 System.out.println("Fine: " + finezzz+"rs");
             } else {
-                System.out.println("Returned on time. No fine 😊");
+                System.out.println("Returned on time. No fine");
             }
         }
 
