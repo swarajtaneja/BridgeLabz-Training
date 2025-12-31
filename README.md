@@ -310,4 +310,32 @@ C:.
 
   ---
 
+  
+  ## 📅 Day 3 - Scenario Based (END) and Leetcode based
+   --- Scenario based practice-5
+**Date:** 31-Dec-2025
+     -Solved Five Scenario-based Problems   
+	
+  🔗 **Code Link:** <br>
+  👉[Day-5 Bus Route Distance Tracker](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-5/BusRouteDistanceTracker.java)
+  👉[Day-5 Currency Exchange](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-5/CurrencyExchange.java)
+  👉[Day-5 Digital Watch](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-5/DigitalWatch.java)
+  👉[Day-5 Lucky Draw](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-5/LuckyDraw.java)
+  👉[Day-5 Quiz Application](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-5/QuizApplication.java)
+  
+
+  --- Leetcode Practice practice 8
+**Date:** 31-Dec-2025
+   - Solved Below problems on leetcode
+     - [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
+     - [Single Number](https://leetcode.com/problems/single-number/description/)
+     - [Majority Element](https://leetcode.com/problems/majority-element/description/)
+     - [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
+     - [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)    
+  🔗 **Code Link:** <br>
+  👉[Code of above Problems](https://github.com/swarajtaneja/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays/day-8)
+
+  ---
+
+
 
