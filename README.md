@@ -337,5 +337,17 @@ C:.
 
   ---
 
+  ## 📅 Day 4 - Leetcode based
+  --- Leetcode Practice practice 9
+**Date:** 01-Jan-2026
+   - Solved Below problems on leetcode
+     - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)
+     - [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/)
+     - [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)
+     - [Missing Number](https://leetcode.com/problems/missing-number/description/)
+     - [Summary Ranges](https://leetcode.com/problems/summary-ranges/description/)    
+  🔗 **Code Link:** <br>
+  👉[Code of above Problems](https://github.com/swarajtaneja/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays/day-9)
 
+  ---
 
