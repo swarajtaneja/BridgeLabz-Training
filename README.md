@@ -1,6 +1,6 @@
 Week 2 Object Oriented Programming  
 
-Day 1 Object Oeirnted Programming Fundamental  
+Day 1 Object Oriented Programming Fundamental  
 Date: 26 Dec 2025  
 
 > Studied fundamentals of objec oriented programming  
@@ -23,7 +23,7 @@ Code Link
 [Day 2: Constructor and Access Modifiers](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/constructors/levelone) 
 
 
-Day 3 Object Oeirnted Programming Fundamental  
+Day 3 Object Oriented Programming Fundamental  
 Date: 29 Dec 2025  
 
 > Studied fundamentals of - this, static, final, instanceof operator 
