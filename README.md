@@ -32,4 +32,12 @@ Date: 29 Dec 2025
 Code link  
 [Day 3: In Built Function](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/inbuiltfunction)   
 
- 
+ Day 4 Object Modeling, Class Diagram
+Date: 30 Dec 2025  
+
+> Studied fundamentals of - Classes vs. Objects in Java, Class Diagram, Object Diagrams, Sequence Diagrams
+> Solved  programming questions based on object modeling and class diagram.
+> Pushed the codes to GitHub  
+Code link  
+[Day 4: Object Modeling](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/objectmodeling)      
+
