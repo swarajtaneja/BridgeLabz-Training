@@ -41,3 +41,14 @@ Date: 30 Dec 2025
 Code link  
 [Day 4: Object Modeling](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/objectmodeling)      
 
+
+
+Day 5 Inheritance 
+Date: 31 Dec 2025  
+
+> Studied fundamentals of - Inheritance, Single Level Inheritance, Multilevel Inheritance, Hierarchical Inheritance, Key Features of Inheritance, Method Overriding, Constructor Inheritance in Java, Polymorphism and Inheritance, Access Modifiers and Inheritance
+> Solved  programming questions based on Inheritance
+> Pushed the codes to GitHub  
+Code link  
+[Day 5: Inheritance](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/inheritance)   
+
