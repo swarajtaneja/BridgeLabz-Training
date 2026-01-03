@@ -62,3 +62,18 @@ Date: 01 Jan 2026
 Code link  
 [Day 6: Encapsulation](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/encapsulation)   
 
+Week 3 Object Oriented Programming  
+  
+Day 1 Scenario based Questions
+   --- Scenario based practice-1
+Date: 02 Jan 2026
+     -Solved Five Scenario-based Problems   
+	
+  🔗 **Code Link:** <br>
+  👉[Day-1 Hospital Management System](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/hospitalmanagementsystem)
+  👉[Day-1 E-Wallet Application](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/ewalletapplication)
+  👉[Day-1 Smart Home Application](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/smarthome)
+  👉[Day-1 University Course Management System](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/universitycoursesystem)
+  👉[Day-1 Vehicle Rental System](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/vehiclerentalsystem)
+  
+  
