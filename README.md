@@ -351,3 +351,16 @@ C:.
 
   ---
 
+  ## 📅 Day 5 - Leetcode based
+  --- Leetcode Practice practice 10
+**Date:** 02-Jan-2026
+   - Solved Below problems on leetcode
+     - [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)
+     - [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/)
+     - [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/)
+     - [Assign Cookies](https://leetcode.com/problems/assign-cookies/description/)
+     - [Island Perimeter](https://leetcode.com/problems/island-perimeter/description/)    
+  🔗 **Code Link:** <br>
+  👉[Code of above Problems](https://github.com/swarajtaneja/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays/day-10)
+
+  ---
