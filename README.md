@@ -364,3 +364,18 @@ C:.
   👉[Code of above Problems](https://github.com/swarajtaneja/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays/day-10)
 
   ---
+  
+  
+  ## 📅 Day 6 - Leetcode based
+  --- Leetcode Practice practice 11
+**Date:** 03-Jan-2026
+   - Solved Below problems on leetcode
+     - [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)
+     - [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)
+     - [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)
+     - [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/)
+     - [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/)    
+  🔗 **Code Link:** <br>
+  👉[Code of above Problems](https://github.com/swarajtaneja/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/strings/day-11)
+
+  ---
