@@ -76,4 +76,12 @@ Date: 02 Jan 2026
   👉[Day-1 University Course Management System](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/universitycoursesystem)
   👉[Day-1 Vehicle Rental System](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/vehiclerentalsystem)
   
-  
+Day 2 Scenario based Questions
+   --- Scenario based practice-2
+Date: 03 Jan 2026
+     -Solved Two Scenario-based Problems   
+	
+  🔗 **Code Link:** <br>
+  👉[Day-2 CabbyGo](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/cabbygo)
+  👉[Day-2 MyBank](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/mybank)
+ 
