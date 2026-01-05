@@ -85,3 +85,12 @@ Date: 03 Jan 2026
   👉[Day-2 CabbyGo](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/cabbygo)
   👉[Day-2 MyBank](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/mybank)
  
+ 
+Day 3 Scenario based Questions
+   --- Scenario based practice-3
+Date: 05 Jan 2026
+     -Solved Two Scenario-based Problems   
+	
+  🔗 **Code Link:** <br>
+  👉[Day-3 Campus-Connect](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/campusconnect)
+  👉[Day-3 Swift-Cart](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/swiftcart)
