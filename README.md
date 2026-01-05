@@ -379,3 +379,18 @@ C:.
   👉[Code of above Problems](https://github.com/swarajtaneja/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/strings/day-11)
 
   ---
+  
+  
+  ## 📅 Day 7 - Leetcode based
+  --- Leetcode Practice practice 12
+**Date:** 04-Jan-2026
+   - Solved Below problems on leetcode
+     - [Count and Say](https://leetcode.com/problems/count-and-say/description/)
+     - [Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)
+     - [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/)
+     - [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)
+     - [Valid Number](https://leetcode.com/problems/valid-number/description/)    
+  🔗 **Code Link:** <br>
+  👉[Code of above Problems](https://github.com/swarajtaneja/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/strings/day-12)
+
+  ---
