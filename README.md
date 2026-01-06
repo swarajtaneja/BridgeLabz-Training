@@ -70,11 +70,11 @@ Date: 02 Jan 2026
      -Solved Five Scenario-based Problems   
 	
   🔗 **Code Link:** <br>
-  👉[Day-1 Hospital Management System](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/hospitalmanagementsystem)
-  👉[Day-1 E-Wallet Application](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/ewalletapplication)
-  👉[Day-1 Smart Home Application](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/smarthome)
-  👉[Day-1 University Course Management System](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/universitycoursesystem)
-  👉[Day-1 Vehicle Rental System](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/vehiclerentalsystem)
+  👉[Day-1 Hospital Management System](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/hospitalmanagementsystem)<br>
+  👉[Day-1 E-Wallet Application](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/ewalletapplication)<br>
+  👉[Day-1 Smart Home Application](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/smarthome)<br>
+  👉[Day-1 University Course Management System](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/universitycoursesystem)<br>
+  👉[Day-1 Vehicle Rental System](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/vehiclerentalsystem)<br>
   
 Day 2 Scenario based Questions
    --- Scenario based practice-2
@@ -82,8 +82,8 @@ Date: 03 Jan 2026
      -Solved Two Scenario-based Problems   
 	
   🔗 **Code Link:** <br>
-  👉[Day-2 CabbyGo](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/cabbygo)
-  👉[Day-2 MyBank](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/mybank)
+  👉[Day-2 CabbyGo](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/cabbygo)<br>
+  👉[Day-2 MyBank](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/mybank)<br>
  
  
 Day 3 Scenario based Questions
@@ -92,5 +92,17 @@ Date: 05 Jan 2026
      -Solved Two Scenario-based Problems   
 	
   🔗 **Code Link:** <br>
-  👉[Day-3 Campus-Connect](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/campusconnect)
-  👉[Day-3 Swift-Cart](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/swiftcart)
+  👉[Day-3 Campus-Connect](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/campusconnect)<br>
+  👉[Day-3 Swift-Cart](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/swiftcart)<br>
+
+
+Day 4 Scenario based Questions
+   --- Scenario based practice-4
+Date: 06 Jan 2026
+     -Solved Four Scenario-based Problems   
+	
+  🔗 **Code Link:** <br>
+  👉[Day-4 PetPal](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/petpal)<br>
+  👉[Day-4 Event Ease](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/eventease)<br>
+  👉[Day-4 Fit Track](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/fittrack)<br>
+  👉[Day-4 Edu Mentor](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/edumentor)<br>
