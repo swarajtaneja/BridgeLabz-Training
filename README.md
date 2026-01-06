@@ -15,6 +15,7 @@
 ### (JAVA-OOPS-PRACTICE)
  ---
    -[Day 1: Class and objectsl ](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops)<br>
+   -[Day 2: Constructor and Access Modifiers](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/constructors/levelone)<br>
  ---
   
    
