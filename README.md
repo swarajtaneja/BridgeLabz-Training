@@ -394,3 +394,19 @@ C:.
   👉[Code of above Problems](https://github.com/swarajtaneja/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/strings/day-12)
 
   ---
+  
+# Week 4 : Solved Problems
+
+  ## 📅 Day 1 - Leetcode based
+  --- Leetcode Practice practice 13
+**Date:** 05-Jan-2026
+   - Solved Below problems on leetcode
+     - [Text Justification](https://leetcode.com/problems/text-justification/description/)
+     - [Simplify Path](https://leetcode.com/problems/simplify-path/description/)
+     - [Edit Distance](https://leetcode.com/problems/edit-distance/description/)
+     - [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)
+     - [Word Search](https://leetcode.com/problems/word-search/description/)    
+  🔗 **Code Link:** <br>
+  👉[Code of above Problems](https://github.com/swarajtaneja/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/strings/day-13)
+
+  ---
