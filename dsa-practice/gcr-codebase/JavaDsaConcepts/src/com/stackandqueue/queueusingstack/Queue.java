@@ -1,8 +1,5 @@
 package com.stackandqueue.queueusingstack;
 
-public class Queue {
-	package com.stackandqueue.queueusingstack;
-
 	 public class Queue {
 			Stack s1 = new Stack();
 			Stack s2 = new Stack();
@@ -24,9 +21,8 @@ public class Queue {
 				
 				System.out.println("element deleted sucessfully: "+s2.pop().data);
 			}
-		}
+		
 
 	}
 
 
-}
