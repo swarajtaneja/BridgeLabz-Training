@@ -410,3 +410,19 @@ C:.
   👉[Code of above Problems](https://github.com/swarajtaneja/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/strings/day-13)
 
   ---
+  
+  
+  ## 📅 Day 2 - Leetcode based
+  --- Leetcode Practice practice 14
+**Date:** 06-Jan-2026
+   - Solved Below problems on leetcode
+     - [Scramble String](https://leetcode.com/problems/scramble-string/description/)
+     - [Decode Ways](https://leetcode.com/problems/decode-ways/description/)
+     - [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/)
+     - [Interleaving String](https://leetcode.com/problems/interleaving-string/description/)
+     - [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/description/)    
+  🔗 **Code Link:** <br>
+  👉[Code of above Problems](https://github.com/swarajtaneja/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/strings/day-14)
+
+  ---
+
