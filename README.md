@@ -7,4 +7,5 @@
    -[Day 2: Control Flow & Logical Constructs](https://github.com/swarajtaneja/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow)<br>
    -[Day 3: Arrays & Basic Problem Solving ](https://github.com/swarajtaneja/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)<br>
    -[Day 4: Concepts & problems on Methods ](https://github.com/swarajtaneja/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)<br>
- ---
+   -[Day 5: Worked on Strings ](https://github.com/swarajtaneja/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)<br>
+   ---
