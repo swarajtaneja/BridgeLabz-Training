@@ -22,4 +22,8 @@
    -[Day 6: Encapsulation](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/encapsulation)<br>
  ---
   
-   
+## Week 3-DSA (Data Structure Algorithms)
+### (DSA-PRACTICE)
+ ---
+   -[Day 1: LinkedList](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/linkedlist)<br>
+ ---
