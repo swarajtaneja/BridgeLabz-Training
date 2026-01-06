@@ -9,4 +9,12 @@
    -[Day 4: Concepts & problems on Methods ](https://github.com/swarajtaneja/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)<br>
    -[Day 5: Worked on Strings ](https://github.com/swarajtaneja/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)<br>
    -[Day 6: Solve Extras Problems ](https://github.com/swarajtaneja/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)<br>
-   ---
+ ---
+  
+## Week 2-Object Oriented Programming 
+### (JAVA-OOPS-PRACTICE)
+ ---
+   -[Day 1: Class and objectsl ](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops)<br>
+ ---
+  
+   
