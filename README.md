@@ -21,3 +21,14 @@ Code link
 [Day 2: Stack And Queue](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/stackandqueue)
 [Day 2: Hash Map](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/hashmap)    
 
+
+
+Day 3 Data Structure Algorithms 
+Date: 05 Jan 2026  
+
+> Studied Bubble Sort,Insertion Sort, Merge Sort, and Quick Sort
+> Solved  programming questions based on - Bubble Sort,Insertion Sort, Merge Sort, and Quick Sort
+> Pushed the codes to GitHub  
+Code link  
+[Day 3: Sorting](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/sorting)  
+
