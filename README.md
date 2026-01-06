@@ -10,3 +10,14 @@ Date: 02 Jan 2026
 Code link  
 [Day 1: LinkedList ](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/linkedlist) 
 
+
+Day 2 Data Structure Algorithms 
+Date: 03 Jan 2026  
+
+> Studied Stack, Queue, HashMap and Hashing Function 
+> Solved  programming questions based on - Stack, Queue, HashMap and Hashing Function
+> Pushed the codes to GitHub  
+Code link  
+[Day 2: Stack And Queue](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/stackandqueue)
+[Day 2: Hash Map](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/hashmap)    
+
