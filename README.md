@@ -14,8 +14,9 @@
 ## Week 2-Object Oriented Programming 
 ### (JAVA-OOPS-PRACTICE)
  ---
-   -[Day 1: Class and objectsl ](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops)<br>
+   -[Day 1: Class and objects ](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops)<br>
    -[Day 2: Constructor and Access Modifiers](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/constructors/levelone)<br>
+   -[Day 3: In Built Function](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/inbuiltfunction)<br>
  ---
   
    
