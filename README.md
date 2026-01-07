@@ -238,4 +238,27 @@ C:.
      [Day 1: Class and objects](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops)   
 
   ---
+ 
+ ## 📅 Day 6 - Leetcode based and Object Oriented Programming 
+  --- Leetcode Practice 4<br>
+**Date:** 27-Dec-2025<br>
+   - Solved Below problems on leetcode
+     - [String to Integer](https://leetcode.com/problems/string-to-integer-atoi/description/)
+     - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)
+     - [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)
+     - [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)
+     - [Add Binary](https://leetcode.com/problems/add-binary/description/)<br>
+  🔗 **Code Link:** <br>
+  👉[Code of above Problems](https://github.com/swarajtaneja/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/strings/day-4)
+  
+  ---Day 2 Constructors, Instance and class variables, Access modifiers <br>
+     > Studied constructors    
+     > studied  about instance and class variables  
+     > studied about access modifiers  
+     > Studied the use of getter and setter  
+     > Solved programming questions and pushed codes to GitHub  
+     Code Link  
+     [Day 2: Constructor and Access Modifiers](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/constructors/levelone) 
+
+  ---
    
