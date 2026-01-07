@@ -515,4 +515,32 @@ C:.
      [Day 3: Sorting](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/sorting)  
 
   ---
-     
+
+ 
+  
+## 📅 Day 2 - Leetcode based, Scenario-based(OOPS) And 
+  --- Leetcode Practice practice 14<br>
+**Date:** 06-Jan-2026<br>
+   - Solved Below problems on leetcode
+     - [Scramble String](https://leetcode.com/problems/scramble-string/description/)
+     - [Decode Ways](https://leetcode.com/problems/decode-ways/description/)
+     - [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/)
+     - [Interleaving String](https://leetcode.com/problems/interleaving-string/description/)
+     - [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/description/)    
+  🔗 **Code Link:** <br>
+  👉[Code of above Problems](https://github.com/swarajtaneja/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/strings/day-14)
+
+   --- Scenario based practice-4<br>
+Date: 06 Jan 2026
+     -Solved Four Scenario-based Problems   
+	
+  🔗 **Code Link:** <br>
+  👉[Day-4 PetPal](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/petpal)<br>
+  👉[Day-4 Event Ease](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/eventease)<br>
+  👉[Day-4 Fit Track](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/fittrack)<br>
+  👉[Day-4 Edu Mentor](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/edumentor)<br>
+
+
+  ---
+
+    
