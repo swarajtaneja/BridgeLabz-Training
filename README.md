@@ -384,3 +384,26 @@ C:.
      [Day 5: Inheritance](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/inheritance)   
 
   ---
+  
+
+## 📅 Day 4 - Leetcode based and Object Oriented Programming 
+  --- Leetcode Practice practice 9<br>
+**Date:** 01-Jan-2026<br>
+   - Solved Below problems on leetcode
+     - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)
+     - [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/)
+     - [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)
+     - [Missing Number](https://leetcode.com/problems/missing-number/description/)
+     - [Summary Ranges](https://leetcode.com/problems/summary-ranges/description/)    
+  🔗 **Code Link:** <br>
+  👉[Code of above Problems](https://github.com/swarajtaneja/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays/day-9)
+  
+  ---Day 6 Encapsulation, Interface, Abstract Classes, and Polymorphism <br>
+     > Studied fundamentals of - Encapsulation, Polymorphism , Interface, Abstract Classes <br>
+     > Solved  programming questions based on Encapsulation<br> 
+     > Pushed the codes to GitHub  <br>
+     Code link  
+     [Day 6: Encapsulation](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/encapsulation)   
+
+
+  ---
