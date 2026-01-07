@@ -407,3 +407,37 @@ C:.
 
 
   ---
+
+## 📅 Day 5 - Leetcode based, Scenario-based(OOPS) And Started DSA (Data Structure Algorithms)
+  --- Leetcode Practice practice 10<br>
+**Date:** 02-Jan-2026<br>
+   - Solved Below problems on leetcode
+     - [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)
+     - [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/)
+     - [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/)
+     - [Assign Cookies](https://leetcode.com/problems/assign-cookies/description/)
+     - [Island Perimeter](https://leetcode.com/problems/island-perimeter/description/)    
+  🔗 **Code Link:** <br>
+  👉[Code of above Problems](https://github.com/swarajtaneja/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays/day-10)
+  
+  --- Scenario based practice-1<br>
+     -Solved Five Scenario-based Problems   
+	
+  🔗 **Code Link:** <br>
+  👉[Day-1 Hospital Management System](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/hospitalmanagementsystem)<br>
+  👉[Day-1 E-Wallet Application](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/ewalletapplication)<br>
+  👉[Day-1 Smart Home Application](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/smarthome)<br>
+  👉[Day-1 University Course Management System](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/universitycoursesystem)<br>
+  👉[Day-1 Vehicle Rental System](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/vehiclerentalsystem)<br>
+  
+
+  ---Day 1 Data Structure Algorithms Fundamental  <br>
+     > Studied Data Structure Introduction and LinkedList and its Types <br>
+     > Solved  programming questions based on LinkedList<br>
+     > Pushed the codes to GitHub  <br>
+     Code link  
+     [Day 1: LinkedList ](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/linkedlist) 
+
+  ---
+  
+  
