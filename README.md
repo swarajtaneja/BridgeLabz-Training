@@ -239,7 +239,7 @@ C:.
 
   ---
  
- ## 📅 Day 6 - Leetcode based and Object Oriented Programming 
+## 📅 Day 6 - Leetcode based and Object Oriented Programming 
   --- Leetcode Practice 4<br>
 **Date:** 27-Dec-2025<br>
    - Solved Below problems on leetcode
@@ -261,4 +261,23 @@ C:.
      [Day 2: Constructor and Access Modifiers](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/constructors/levelone) 
 
   ---
-   
+
+## 📅 Day 7 - Leetcode based
+  --- Leetcode Practice 5<br>
+**Date:** 28-Dec-2025<br>
+   - Solved Below problems on leetcode
+     - [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
+     - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/3Sum)
+     - [3Sum](https://leetcode.com/problems/3sum/description/)
+     - [3Sum Closest](https://leetcode.com/problems/3sum-closest/description/)
+     - [4Sum](https://leetcode.com/problems/4sum/description/)
+     - [Next Permutation](https://leetcode.com/problems/next-permutation/description/)
+     - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
+     - [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)
+     - [Combination Sum](https://leetcode.com/problems/combination-sum/description/)
+     - [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/)<br>
+  🔗 **Code Link:** <br>
+  👉[Code of above Problems](https://github.com/swarajtaneja/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays/day-5)
+
+  ---
+  
