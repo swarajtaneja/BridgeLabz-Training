@@ -190,3 +190,19 @@ C:.
   👉[Code of above Problems](https://github.com/swarajtaneja/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays/day-1)
 
   ---
+
+  
+## 📅 Day 4 - Leetcode based
+  --- Leetcode Practice 2<br>
+**Date:** 25-Dec-2025<br>
+   - Solved Below problems on leetcode
+     - [Plus One](https://leetcode.com/problems/plus-one/description/)
+     - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
+     - [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/)
+     - [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)
+     - [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/)    
+  🔗 **Code Link:** <br>
+  👉[Code of above Problems](https://github.com/swarajtaneja/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays/day-2)
+
+  ---
+  
