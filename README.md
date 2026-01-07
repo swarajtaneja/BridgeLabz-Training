@@ -440,4 +440,33 @@ C:.
 
   ---
   
+
+## 📅 Day 6 - Leetcode based, Scenario-based(OOPS) And DSA (Data Structure Algorithms)
+  --- Leetcode Practice practice 11<br>
+**Date:** 03-Jan-2026<br>
+   - Solved Below problems on leetcode
+     - [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)
+     - [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)
+     - [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)
+     - [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/)
+     - [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/)    
+  🔗 **Code Link:** <br>
+  👉[Code of above Problems](https://github.com/swarajtaneja/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/strings/day-11)
+  
+  --- Scenario based practice-2<br>
+     -Solved Two Scenario-based Problems   
+	
+  🔗 **Code Link:** <br>
+  👉[Day-2 CabbyGo](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/cabbygo)<br>
+  👉[Day-2 MyBank](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/mybank)<br>
+ 
+  ---Day 2 Data Structure Algorithms <br>
+     > Studied Stack, Queue, HashMap and Hashing Function <br>
+     > Solved  programming questions based on - Stack, Queue, HashMap and Hashing Function<br>
+     > Pushed the codes to GitHub  <br>
+     Code link  
+     [Day 2: Stack And Queue](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/stackandqueue)
+     [Day 2: Hash Map](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/hashmap)    
+
+  ---
   
