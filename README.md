@@ -167,3 +167,26 @@ C:.
   👉[Built in functions 1](https://classroom.google.com/c/ODIxNjE3NTg5MDE1/m/ODIxNjE3NTg5MDU5/details) <br> 
   👉[Built in functions 2](https://classroom.google.com/c/ODIxNjE3NTg5MDE1/m/ODIxNjE3NTg5MDU5/details)<br>
 
+
+## 📅 Day 3 - Scenario Based and Leetcode based
+   --- Scenario based practice-1<br>
+**Date:** 24-Dec-2025<br>
+     -Solved Two Scenario-based Problems <br>  
+	
+  🔗 **Code Link:** <br>
+  👉[Day-1 Coffee Counter](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-1/CoffeeShop.java)<br>
+  👉[Day-1 BMI Fitness Tracker](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-1/BMIFitnessTracker.java)<br>
+  
+
+  --- Leetcode Practice 1<br>
+**Date:** 24-Dec-2025<br>
+   - Solved Below problems on leetcode<br>
+     - [Two Sum](https://leetcode.com/problems/two-sum/description/)
+     - [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)
+     - [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)
+     - [Remove elements](https://leetcode.com/problems/remove-element/description/)
+     - [Remove duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)    
+  🔗 **Code Link:** <br>
+  👉[Code of above Problems](https://github.com/swarajtaneja/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays/day-1)
+
+  ---
