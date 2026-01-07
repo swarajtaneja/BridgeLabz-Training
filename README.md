@@ -484,4 +484,35 @@ C:.
   👉[Code of above Problems](https://github.com/swarajtaneja/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/strings/day-12)
 
   ---
-    
+
+# Week 4 : Solved Problems and 
+
+## 📅 Day 1 - Leetcode based, Scenario-based(OOPS) And DSA (Data Structure Algorithms)
+  --- Leetcode Practice practice 13<br>
+**Date:** 05-Jan-2026<br>
+   - Solved Below problems on leetcode
+     - [Text Justification](https://leetcode.com/problems/text-justification/description/)
+     - [Simplify Path](https://leetcode.com/problems/simplify-path/description/)
+     - [Edit Distance](https://leetcode.com/problems/edit-distance/description/)
+     - [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)
+     - [Word Search](https://leetcode.com/problems/word-search/description/)    
+  🔗 **Code Link:** <br>
+  👉[Code of above Problems](https://github.com/swarajtaneja/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/strings/day-13)
+  
+  --- Scenario based practice-3<br>
+     -Solved Two Scenario-based Problems   
+	
+  🔗 **Code Link:** <br>
+  👉[Day-3 Campus-Connect](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/campusconnect)<br>
+  👉[Day-3 Swift-Cart](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/swiftcart)<br>
+
+
+  ---Day 3 Data Structure Algorithms <br>
+     > Studied Bubble Sort,Insertion Sort, Merge Sort, and Quick Sort<br>
+     > Solved  programming questions based on - Bubble Sort,Insertion Sort, Merge Sort, and Quick Sort<br>
+     > Pushed the codes to GitHub  <br>
+     Code link  
+     [Day 3: Sorting](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/sorting)  
+
+  ---
+     
