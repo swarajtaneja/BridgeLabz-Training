@@ -205,4 +205,37 @@ C:.
   👉[Code of above Problems](https://github.com/swarajtaneja/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays/day-2)
 
   ---
+
+    
+## 📅 Day 5 - Scenario Based, Leetcode based And Object Oriented Programming
+   --- Scenario based practice-2<br>
+**Date:** 26-Dec-2025<br>
+     -Solved Three Scenario-based Problems   
+	
+  🔗 **Code Link:** <br>
+  👉[Day-2 Election Booth Manager](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-2/ElectionBoothManager.java)<br>
+  👉[Day-2 Metro Smart Card Fare Deduction](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-2/MetroSmartCard.java)<br>
+  👉[Day-2 Raj’s Result Generator](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-2/ResultGenerator.java)<br>
   
+
+  --- Leetcode Practice practice 3<br>
+**Date:** 26-Dec-2025<br>
+   - Solved Below problems on leetcode
+     - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
+     - [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)
+     - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)
+     - [Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/)
+     - [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)    
+  🔗 **Code Link:** <br>
+  👉[Code of above Problems](https://github.com/swarajtaneja/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/strings/day-3)
+  
+  
+  ---Day 1 Object Oriented Programming Fundamental <br>
+     > Studied fundamentals of objec oriented programming  
+     > Solved  programming questions based on object and classes  
+     > Pushed the codes to GitHub  
+     Code link  
+     [Day 1: Class and objects](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops)   
+
+  ---
+   
