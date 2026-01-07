@@ -64,9 +64,9 @@ Code link
 
 Week 3 Object Oriented Programming  
   
-Day 1 Scenario based Questions
-   --- Scenario based practice-1
-Date: 02 Jan 2026
+Day 1 Scenario based Questions<br>
+   --- Scenario based practice-1<br>
+Date: 02 Jan 2026<br>
      -Solved Five Scenario-based Problems   
 	
   🔗 **Code Link:** <br>
@@ -76,9 +76,9 @@ Date: 02 Jan 2026
   👉[Day-1 University Course Management System](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/universitycoursesystem)<br>
   👉[Day-1 Vehicle Rental System](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/vehiclerentalsystem)<br>
   
-Day 2 Scenario based Questions
-   --- Scenario based practice-2
-Date: 03 Jan 2026
+Day 2 Scenario based Questions<br>
+   --- Scenario based practice-2<br>
+Date: 03 Jan 2026<br>
      -Solved Two Scenario-based Problems   
 	
   🔗 **Code Link:** <br>
@@ -86,9 +86,9 @@ Date: 03 Jan 2026
   👉[Day-2 MyBank](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/mybank)<br>
  
  
-Day 3 Scenario based Questions
-   --- Scenario based practice-3
-Date: 05 Jan 2026
+Day 3 Scenario based Questions<br>
+   --- Scenario based practice-3<br>
+Date: 05 Jan 2026<br>
      -Solved Two Scenario-based Problems   
 	
   🔗 **Code Link:** <br>
@@ -96,9 +96,9 @@ Date: 05 Jan 2026
   👉[Day-3 Swift-Cart](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/swiftcart)<br>
 
 
-Day 4 Scenario based Questions
-   --- Scenario based practice-4
-Date: 06 Jan 2026
+Day 4 Scenario based Questions<br>
+   --- Scenario based practice-4<br>
+Date: 06 Jan 2026<br>
      -Solved Four Scenario-based Problems   
 	
   🔗 **Code Link:** <br>
@@ -106,3 +106,14 @@ Date: 06 Jan 2026
   👉[Day-4 Event Ease](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/eventease)<br>
   👉[Day-4 Fit Track](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/fittrack)<br>
   👉[Day-4 Edu Mentor](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/edumentor)<br>
+
+
+Day 5 Scenario based Questions<br>
+   --- Scenario based practice-5<br>
+Date: 07 Jan 2026<br>
+     -Solved Three Scenario-based Problems   
+	
+  🔗 **Code Link:** <br>
+  👉[Day-5 Book Bazar](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/BookBazar)<br>
+  👉[Day-5 Loan Buddy](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/loanbuddy)<br>
+  👉[Day-5 Park Ease](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/parkease)<br>
