@@ -350,5 +350,37 @@ C:.
      [Day 4: Object Modeling](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/objectmodeling)      
 
   ---
+  
+## 📅 Day 3 - Scenario Based (END-CORE-JAVA-PRACTICE), Leetcode based and Object Oriented Programming 
+   --- Scenario based practice-5<br>
+**Date:** 31-Dec-2025<br>
+     -Solved Five Scenario-based Problems   
+	
+  🔗 **Code Link:** <br>
+  👉[Day-5 Bus Route Distance Tracker](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-5/BusRouteDistanceTracker.java)<br>
+  👉[Day-5 Currency Exchange](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-5/CurrencyExchange.java)<br>
+  👉[Day-5 Digital Watch](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-5/DigitalWatch.java)<br>
+  👉[Day-5 Lucky Draw](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-5/LuckyDraw.java)<br>
+  👉[Day-5 Quiz Application](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-5/QuizApplication.java)<br>
+  
 
- 
+  --- Leetcode Practice practice 8<br>
+**Date:** 31-Dec-2025<br>
+   - Solved Below problems on leetcode
+     - [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
+     - [Single Number](https://leetcode.com/problems/single-number/description/)
+     - [Majority Element](https://leetcode.com/problems/majority-element/description/)
+     - [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
+     - [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)    
+  🔗 **Code Link:** <br>
+  👉[Code of above Problems](https://github.com/swarajtaneja/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays/day-8)
+  
+  
+  ---Day 5 Inheritance <br>
+     > Studied fundamentals of - Inheritance, Single Level Inheritance, Multilevel Inheritance, Hierarchical Inheritance, Key Features of Inheritance, Method Overriding, Constructor Inheritance in Java, Polymorphism and Inheritance, Access Modifiers and Inheritance <br>
+     > Solved  programming questions based on Inheritance<br>
+     > Pushed the codes to GitHub <br> 
+     Code link  
+     [Day 5: Inheritance](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/inheritance)   
+
+  ---
