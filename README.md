@@ -317,4 +317,38 @@ C:.
 
   ---
  
+
+## 📅 Day 2 - Scenario Based, Leetcode based and Object Oriented Programming 
+   --- Scenario based practice-4<br>
+**Date:** 30-Dec-2025<br>
+     -Solved Five Scenario-based Problems   
+	
+  🔗 **Code Link:** <br>
+  👉[Day-4 Temperature Logger](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-4/TemperatureLogger.java)<br>
+  👉[Day-4 Train Booking System](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-4/TrainBookingSystem.java)<br>
+  👉[Day-4 Sandeep's Fitness Tracker](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-4/FitnessTracker.java)<br>
+  👉[Day-4 Movie Ticket Booking](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-4/MovieTicketBooking.java)<br>
+  👉[Day-4 LibraryFineCalculator](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-4/LibraryFineCalculator.java)<br>
+  
+
+  --- Leetcode Practice practice 7<br>
+**Date:** 30-Dec-2025<br>
+   - Solved Below problems on leetcode
+     - [Reverse String](https://leetcode.com/problems/reverse-string/description/)
+     - [Word Pattern](https://leetcode.com/problems/word-pattern/description/)
+     - [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/)
+     - [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/)
+     - [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)    
+  🔗 **Code Link:** <br>
+  👉[Code of above Problems](https://github.com/swarajtaneja/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/strings/day-7)
+  
+  ---Day 4 Object Modeling, Class Diagram<br>
+     > Studied fundamentals of - Classes vs. Objects in Java, Class Diagram, Object Diagrams, Sequence Diagrams<br>
+     > Solved  programming questions based on object modeling and class diagram. <br>
+     > Pushed the codes to GitHub  <br>
+     Code link  
+     [Day 4: Object Modeling](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/objectmodeling)      
+
+  ---
+
  
