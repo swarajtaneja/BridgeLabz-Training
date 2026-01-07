@@ -280,4 +280,41 @@ C:.
   👉[Code of above Problems](https://github.com/swarajtaneja/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays/day-5)
 
   ---
+
+# Week 3 : Solved Problems and Object Oriented Programming 
+    
+## 📅 Day 1 - Scenario Based, Leetcode based and Object Oriented Programming 
+   --- Scenario based practice-3<br>
+**Date:** 29-Dec-2025<br>
+     -Solved Five Scenario-based Problems   
+	
+  🔗 **Code Link:** <br>
+  👉[Day-3 Parking Lot](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-3/ParkingLot.java)<br>
+  👉[Day-3 Number Guessing Game](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-3/NumberGuess.java)<br>
+  👉[Day-3 Shopping Bill](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-3/ShoppingDiscount.java)<br>
+  👉[Day-3 Student Bus Attaindance](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-3/BusAttaindance.java)<br>
+  👉[Day-3 Phone Recharge](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-3/PhoneRecharge.java)<br>
   
+
+  --- Leetcode Practice practice 6<br>
+**Date:** 29-Dec-2025<br>
+   - Solved Below problems on leetcode
+     - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)
+     - [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)
+     - [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)
+     - [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/)
+     - [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/)    
+  🔗 **Code Link:** <br>
+  👉[Code of above Problems](https://github.com/swarajtaneja/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/strings/day-6)
+  
+  ---Day 3 Object Oriented Programming Fundamental  <br>
+     > Studied fundamentals of - this, static, final, instanceof operator <br>
+     > Solved  programming questions based on in built function <br>
+     > Pushed the codes to GitHub  <br>
+     Code link  
+     [Day 3: In Built Function](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/inbuiltfunction)   
+
+
+  ---
+ 
+ 
