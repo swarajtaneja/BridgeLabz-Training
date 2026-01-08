@@ -518,7 +518,7 @@ C:.
 
  
   
-## 📅 Day 2 - Leetcode based, Scenario-based(OOPS) And 
+## 📅 Day 2 - Leetcode based, Scenario-based(OOPS) And DSA (Data Structure Algorithms)
   --- Leetcode Practice practice 14<br>
 **Date:** 06-Jan-2026<br>
    - Solved Below problems on leetcode
@@ -530,7 +530,7 @@ C:.
   🔗 **Code Link:** <br>
   👉[Code of above Problems](https://github.com/swarajtaneja/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/strings/day-14)
 
-   --- Scenario based practice-4<br>
+  --- Scenario based practice-4<br>
 Date: 06 Jan 2026
      -Solved Four Scenario-based Problems   
 	
@@ -540,7 +540,13 @@ Date: 06 Jan 2026
   👉[Day-4 Fit Track](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/fittrack)<br>
   👉[Day-4 Edu Mentor](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/edumentor)<br>
 
-
+  ---Day 4 Data Structure Algorithms <br>
+     > Studied Bubble StringBuilder, StringBuffer, FileReader, InputStreamReader, Linear Search, Binary Search <br>
+     > Solved  programming questions based on - StringBuilder, StringBuffer, FileReader, InputStreamReader, Linear Search, Binarylinearbinarysearch<br>
+     > Pushed the codes to GitHub  <br>
+     Code link  <br>
+     [Day 4: Linear and Binary Search](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/linearbinarysearch)  
+     
   ---
 
     
