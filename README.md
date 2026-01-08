@@ -549,4 +549,16 @@ Date: 06 Jan 2026
      
   ---
 
+## 📅 Day 3 - Scenario-based(OOPS) 
+  --- Scenario based practice-5<br>
+Date: 07 Jan 2026<br>
+     -Solved Three Scenario-based Problems   
+	
+  🔗 **Code Link:** <br>
+  👉[Day-5 Book Bazar](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/BookBazar)<br>
+  👉[Day-5 Loan Buddy](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/loanbuddy)<br>
+  👉[Day-5 Park Ease](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/parkease)<br>
+
+  ---
+
     
