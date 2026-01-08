@@ -32,3 +32,12 @@ Date: 05 Jan 2026
 Code link  
 [Day 3: Sorting](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/sorting)  
 
+Day 4 Data Structure Algorithms 
+Date: 06 Jan 2026  
+
+> Studied Bubble StringBuilder, StringBuffer, FileReader, InputStreamReader, Linear Search, Binary Search
+> Solved  programming questions based on - StringBuilder, StringBuffer, FileReader, InputStreamReader, Linear Search, Binarylinearbinarysearch
+> Pushed the codes to GitHub  
+Code link  
+[Day 4: Linear and Binary Search](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/linearbinarysearch)  
+
