@@ -41,3 +41,15 @@ Date: 06 Jan 2026
 Code link  
 [Day 4: Linear and Binary Search](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/linearbinarysearch)  
 
+
+Day 5 Data Structure Algorithms 
+Date: 07 Jan 2026  
+
+> Studied 1.What is Runtime Analysis? 2. Understanding Big-O Notation<br>
+          3. Time Complexity Analysis 4. Space Complexity Analysis<br>
+          5. Best, Worst, and Average Case Complexities 6. Practical Guidelines for Optimizing Java Code<br>
+> Solved  programming questions based on - General Algorithm Best Practices, Time and space Complexity Optimization
+> Pushed the codes to GitHub  
+Code link  
+[Day 5: Algorithm's Runtime Analysis & Big-O Notation](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/algorithmanalysis)  
+
