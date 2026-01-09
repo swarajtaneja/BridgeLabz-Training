@@ -127,3 +127,17 @@ Date: 08 Jan 2026<br>
   🔗 **Code Link:** <br>
   👉[Day-6 Medi Store](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/medistore)<br>
   👉[Day-6 Tour Mate](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/tourmate)<br>
+
+
+Week 4 Object Oriented Programming (Scenario-based)
+
+Day 1 Scenario based Questions<br>
+   --- Scenario based practice-7<br>
+Date: 09 Jan 2026<br>
+     -Solved Five Scenario-based Problems   
+	
+  🔗 **Code Link:** <br>
+  👉[Day-7 Food Loop](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/foodloop)<br>
+  👉[Day-7 Skill Forge](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/skillforge)<br>
+  👉[Day-7 Artify](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/artify)<br>
+  
