@@ -117,3 +117,13 @@ Date: 07 Jan 2026<br>
   👉[Day-5 Book Bazar](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/BookBazar)<br>
   👉[Day-5 Loan Buddy](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/loanbuddy)<br>
   👉[Day-5 Park Ease](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/parkease)<br>
+
+
+Day 6 Scenario based Questions<br>
+   --- Scenario based practice-6<br>
+Date: 08 Jan 2026<br>
+     -Solved Two Scenario-based Problems   
+	
+  🔗 **Code Link:** <br>
+  👉[Day-6 Medi Store](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/medistore)<br>
+  👉[Day-6 Tour Mate](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/tourmate)<br>
