@@ -2,8 +2,8 @@
 
 ---
 
-## 📅 Day 1 – Git and GitHub Setup  
-**Date:** 15-Dec-2025  
+## 📅 **Date:** 15-Dec-2025 – Git and GitHub Setup  
+  
 
 - Installed and configured Git  
 - Set up GitHub repository  
@@ -34,8 +34,8 @@ C:.
 
 
 
-### 🗓 Day 2 – Git Practice & Basic Java Programs  
-**Date:** 16-Dec-2025
+### 🗓 **Date:** 16-Dec-2025 – Git Practice & Basic Java Programs  
+
 
 - Practiced Git workflow to understand commits and version control.
 - Solved very basic Java programs to understand syntax and structure.
@@ -47,8 +47,8 @@ C:.
 ---
 
 
-### 🗓 Day 3 – Programming Elements in Java  
-**Date:** 17-Dec-2025
+### 🗓 **Date:** 17-Dec-2025 – Programming Elements in Java  
+
 
 - Studied Java programming elements:
   - Variables and data types
@@ -64,8 +64,8 @@ C:.
 
 
 
-### 🗓 Day 4 – Control Flow & Logical Constructs  
-**Date:** 18-Dec-2025
+### 🗓 **Date:** 18-Dec-2025 – Control Flow & Logical Constructs  
+
 
 - Studied logical constructs in Java:
   - if, if-else
@@ -87,8 +87,8 @@ C:.
 ---
 
 
-### 🗓 Day 5 – Arrays & Basic Problem Solving  
-**Date:** 19-Dec-2025
+### 🗓 **Date:** 19-Dec-2025 – Arrays & Basic Problem Solving  
+
 
 - Studied arrays in Java:
   - Single-dimensional arrays
@@ -106,8 +106,8 @@ C:.
 
 ---
 
-### 🗓 Day 6 –Concepts & problems on Methods  
-**Date: 20-Dec-2025
+### 🗓 **Date: 20-Dec-2025 –Concepts & problems on Methods  
+
 
 - Studied Java methods:
   - Method declaration
@@ -122,11 +122,8 @@ C:.
 ---
 
 
-# Week 2 : Worked on Strings and Extras Problems
+## 📅 **Date:** 22-Dec-2025  – Strings Concepts & Problems  
 
----
-## 📅 Day 1 – Strings Concepts & Problems  
-**Date:** 22-Dec-2025 
 
 - [Learn the string concepts](https://docs.google.com/document/d/1-UXHtzpozVZznDVGYivscpQYEL6-vxOFZWiPpvBH5CE/edit?tab=t.0#heading=h.66yv6crqdvrd)
     - Learn about built in methods for strings
@@ -145,8 +142,8 @@ C:.
  ---
  
  
-## 📅 Day 2 – Solve Extras Problems 
-**Date:** 23-Dec-2025 
+## 📅 **Date:** 23-Dec-2025 – Solve Extras Problems 
+ 
 
 - [Extras Problems on String](https://classroom.google.com/c/ODIxNjE3NTg5MDE1/a/ODIxNjE3NTg5MDU3/details)
    - Work on concepts like frequency,substring,anagram etc . about string
@@ -155,27 +152,25 @@ C:.
      - Ex. includes time packages functions like LocalDate.now(), LocalTime.now() etc.
 
   **Code Link:** <br>
-  👉[String Extras solved](https://github.com/swarajtaneja/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras/strings-handling) ,
-  👉[Buiilt function extras problem statements](https://github.com/swarajtaneja/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras/problem-statements)
-  👉[Buiilt function extras additonal problem statements](https://github.com/swarajtaneja/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras/additional-problemstatement)
+  👉[String Extras solved](https://github.com/swarajtaneja/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras/strings-handling) <br>
+  👉[Buiilt function extras problem statements](https://github.com/swarajtaneja/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras/problem-statements)<br>
+  👉[Buiilt function extras additonal problem statements](https://github.com/swarajtaneja/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras/additional-problemstatement)<br>
   <br>
   **Notes source:** <br>
-  👉[Built in functions 1](https://classroom.google.com/c/ODIxNjE3NTg5MDE1/m/ODIxNjE3NTg5MDU5/details) , 
-  👉[Built in functions 2](https://classroom.google.com/c/ODIxNjE3NTg5MDE1/m/ODIxNjE3NTg5MDU5/details)
+  👉[Built in functions 1](https://classroom.google.com/c/ODIxNjE3NTg5MDE1/m/ODIxNjE3NTg5MDU5/details) <br>
+  👉[Built in functions 2](https://classroom.google.com/c/ODIxNjE3NTg5MDE1/m/ODIxNjE3NTg5MDU5/details)<br>
 
 
-## 📅 Day 3 - Scenario Based and Leetcode based
-   --- Scenario based practice-1
-**Date:** 24-Dec-2025
+## 📅 **Date:** 24-Dec-2025 - Scenario Based and Leetcode based
+   --- Scenario based practice-1<br>
      -Solved Two Scenario-based Problems   
 	
   🔗 **Code Link:** <br>
-  👉[Day-1 Coffee Counter](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-1/CoffeeShop.java)
-  👉[Day-1 BMI Fitness Tracker](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-1/BMIFitnessTracker.java)
+  👉[Day-1 Coffee Counter](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-1/CoffeeShop.java)<br>
+  👉[Day-1 BMI Fitness Tracker](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-1/BMIFitnessTracker.java)<br>
   
 
-  --- Leetcode Practice 1
-**Date:** 24-Dec-2025
+  --- Leetcode Practice 1   <br>
    - Solved Below problems on leetcode
      - [Two Sum](https://leetcode.com/problems/two-sum/description/)
      - [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)
@@ -187,9 +182,8 @@ C:.
 
   ---
   
-## 📅 Day 4 - Leetcode based
-  --- Leetcode Practice 2
-**Date:** 25-Dec-2025
+## 📅 **Date:** 25-Dec-2025 - Leetcode based
+  --- Leetcode Practice 2<br>
    - Solved Below problems on leetcode
      - [Plus One](https://leetcode.com/problems/plus-one/description/)
      - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
@@ -201,19 +195,17 @@ C:.
 
   ---
     
- ## 📅 Day 5 - Scenario Based and Leetcode based
-   --- Scenario based practice-2
-**Date:** 26-Dec-2025
+## 📅 **Date:** 26-Dec-2025 - Scenario Based and Leetcode based
+   --- Scenario based practice-2<br>
      -Solved Three Scenario-based Problems   
 	
   🔗 **Code Link:** <br>
-  👉[Day-2 Election Booth Manager](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-2/ElectionBoothManager.java)
-  👉[Day-2 Metro Smart Card Fare Deduction](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-2/MetroSmartCard.java)
-  👉[Day-2 Raj’s Result Generator](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-2/ResultGenerator.java)
+  👉[Day-2 Election Booth Manager](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-2/ElectionBoothManager.java)<br>
+  👉[Day-2 Metro Smart Card Fare Deduction](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-2/MetroSmartCard.java)<br>
+  👉[Day-2 Raj’s Result Generator](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-2/ResultGenerator.java)<br>
   
 
-  --- Leetcode Practice practice 3
-**Date:** 26-Dec-2025
+  --- Leetcode Practice practice 3<br>
    - Solved Below problems on leetcode
      - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
      - [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)
@@ -225,9 +217,8 @@ C:.
 
   ---
   
- ## 📅 Day 6 - Leetcode based
-  --- Leetcode Practice 4
-**Date:** 27-Dec-2025
+## 📅 **Date:** 27-Dec-2025 - Leetcode based
+  --- Leetcode Practice 4<br>
    - Solved Below problems on leetcode
      - [String to Integer](https://leetcode.com/problems/string-to-integer-atoi/description/)
      - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)
@@ -238,9 +229,8 @@ C:.
   👉[Code of above Problems](https://github.com/swarajtaneja/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/strings/day-4)
 
 
-## 📅 Day 7 - Leetcode based
-  --- Leetcode Practice 5
-**Date:** 28-Dec-2025
+## 📅 **Date:** 28-Dec-2025 - Leetcode based
+  --- Leetcode Practice 5<br>
    - Solved Below problems on leetcode
      - [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
      - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/3Sum)
@@ -255,23 +245,20 @@ C:.
   🔗 **Code Link:** <br>
   👉[Code of above Problems](https://github.com/swarajtaneja/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays/day-5)
 
-# Week 3 : Solved Problems
     
-  ## 📅 Day 1 - Scenario Based and Leetcode based
-   --- Scenario based practice-3
-**Date:** 29-Dec-2025
+## 📅 **Date:** 29-Dec-2025 - Scenario Based and Leetcode based
+   --- Scenario based practice-3<br>
      -Solved Five Scenario-based Problems   
 	
   🔗 **Code Link:** <br>
-  👉[Day-3 Parking Lot](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-3/ParkingLot.java)
-  👉[Day-3 Number Guessing Game](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-3/NumberGuess.java)
-  👉[Day-3 Shopping Bill](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-3/ShoppingDiscount.java)
-  👉[Day-3 Student Bus Attaindance](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-3/BusAttaindance.java)
-  👉[Day-3 Phone Recharge](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-3/PhoneRecharge.java)
+  👉[Day-3 Parking Lot](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-3/ParkingLot.java)<br>
+  👉[Day-3 Number Guessing Game](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-3/NumberGuess.java)<br>
+  👉[Day-3 Shopping Bill](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-3/ShoppingDiscount.java)<br>
+  👉[Day-3 Student Bus Attaindance](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-3/BusAttaindance.java)<br>
+  👉[Day-3 Phone Recharge](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-3/PhoneRecharge.java)<br>
   
 
-  --- Leetcode Practice practice 6
-**Date:** 29-Dec-2025
+  --- Leetcode Practice practice 6<br>
    - Solved Below problems on leetcode
      - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)
      - [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)
@@ -284,21 +271,19 @@ C:.
   ---
   
   
-  ## 📅 Day 2 - Scenario Based and Leetcode based
-   --- Scenario based practice-4
-**Date:** 30-Dec-2025
+## 📅 **Date:** 30-Dec-2025 - Scenario Based and Leetcode based
+   --- Scenario based practice-4<br>
      -Solved Five Scenario-based Problems   
 	
   🔗 **Code Link:** <br>
-  👉[Day-4 Temperature Logger](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-4/TemperatureLogger.java)
-  👉[Day-4 Train Booking System](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-4/TrainBookingSystem.java)
-  👉[Day-4 Sandeep's Fitness Tracker](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-4/FitnessTracker.java)
-  👉[Day-4 Movie Ticket Booking](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-4/MovieTicketBooking.java)
-  👉[Day-4 LibraryFineCalculator](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-4/LibraryFineCalculator.java)
+  👉[Day-4 Temperature Logger](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-4/TemperatureLogger.java)<br>
+  👉[Day-4 Train Booking System](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-4/TrainBookingSystem.java)<br>
+  👉[Day-4 Sandeep's Fitness Tracker](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-4/FitnessTracker.java)<br>
+  👉[Day-4 Movie Ticket Booking](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-4/MovieTicketBooking.java)<br>
+  👉[Day-4 LibraryFineCalculator](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-4/LibraryFineCalculator.java)<br>
   
 
-  --- Leetcode Practice practice 7
-**Date:** 30-Dec-2025
+  --- Leetcode Practice practice 7<br>
    - Solved Below problems on leetcode
      - [Reverse String](https://leetcode.com/problems/reverse-string/description/)
      - [Word Pattern](https://leetcode.com/problems/word-pattern/description/)
@@ -311,21 +296,19 @@ C:.
   ---
 
   
-  ## 📅 Day 3 - Scenario Based (END) and Leetcode based
-   --- Scenario based practice-5
-**Date:** 31-Dec-2025
+## 📅 **Date:** 31-Dec-2025 - Scenario Based (END) and Leetcode based
+   --- Scenario based practice-5<br>
      -Solved Five Scenario-based Problems   
 	
   🔗 **Code Link:** <br>
-  👉[Day-5 Bus Route Distance Tracker](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-5/BusRouteDistanceTracker.java)
-  👉[Day-5 Currency Exchange](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-5/CurrencyExchange.java)
-  👉[Day-5 Digital Watch](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-5/DigitalWatch.java)
-  👉[Day-5 Lucky Draw](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-5/LuckyDraw.java)
-  👉[Day-5 Quiz Application](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-5/QuizApplication.java)
+  👉[Day-5 Bus Route Distance Tracker](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-5/BusRouteDistanceTracker.java)<br>
+  👉[Day-5 Currency Exchange](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-5/CurrencyExchange.java)<br>
+  👉[Day-5 Digital Watch](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-5/DigitalWatch.java)<br>
+  👉[Day-5 Lucky Draw](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-5/LuckyDraw.java)<br>
+  👉[Day-5 Quiz Application](https://github.com/swarajtaneja/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/day-5/QuizApplication.java)<br>
   
 
-  --- Leetcode Practice practice 8
-**Date:** 31-Dec-2025
+  --- Leetcode Practice practice 8<br>
    - Solved Below problems on leetcode
      - [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
      - [Single Number](https://leetcode.com/problems/single-number/description/)
@@ -337,9 +320,8 @@ C:.
 
   ---
 
-  ## 📅 Day 4 - Leetcode based
-  --- Leetcode Practice practice 9
-**Date:** 01-Jan-2026
+## 📅 **Date:** 01-Jan-2026 - Leetcode based
+  --- Leetcode Practice practice 9<br>
    - Solved Below problems on leetcode
      - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)
      - [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/)
@@ -351,9 +333,8 @@ C:.
 
   ---
 
-  ## 📅 Day 5 - Leetcode based
-  --- Leetcode Practice practice 10
-**Date:** 02-Jan-2026
+## 📅 **Date:** 02-Jan-2026 - Leetcode based
+  --- Leetcode Practice practice 10<br>
    - Solved Below problems on leetcode
      - [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)
      - [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/)
@@ -366,9 +347,8 @@ C:.
   ---
   
   
-  ## 📅 Day 6 - Leetcode based
-  --- Leetcode Practice practice 11
-**Date:** 03-Jan-2026
+## 📅 **Date:** 03-Jan-2026 - Leetcode based
+  --- Leetcode Practice practice 11<br>
    - Solved Below problems on leetcode
      - [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)
      - [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)
@@ -381,9 +361,8 @@ C:.
   ---
   
   
-  ## 📅 Day 7 - Leetcode based
-  --- Leetcode Practice practice 12
-**Date:** 04-Jan-2026
+## 📅 **Date:** 04-Jan-2026 - Leetcode based
+  --- Leetcode Practice practice 12<br>
    - Solved Below problems on leetcode
      - [Count and Say](https://leetcode.com/problems/count-and-say/description/)
      - [Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)
@@ -394,12 +373,9 @@ C:.
   👉[Code of above Problems](https://github.com/swarajtaneja/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/strings/day-12)
 
   ---
-  
-# Week 4 : Solved Problems
 
-  ## 📅 Day 1 - Leetcode based
-  --- Leetcode Practice practice 13
-**Date:** 05-Jan-2026
+## 📅 **Date:** 05-Jan-2026 - Leetcode based
+  --- Leetcode Practice practice 13<br>
    - Solved Below problems on leetcode
      - [Text Justification](https://leetcode.com/problems/text-justification/description/)
      - [Simplify Path](https://leetcode.com/problems/simplify-path/description/)
@@ -412,9 +388,8 @@ C:.
   ---
   
   
-  ## 📅 Day 2 - Leetcode based
-  --- Leetcode Practice practice 14
-**Date:** 06-Jan-2026
+## 📅 **Date:** 06-Jan-2026 - Leetcode based
+  --- Leetcode Practice practice 14<br>
    - Solved Below problems on leetcode
      - [Scramble String](https://leetcode.com/problems/scramble-string/description/)
      - [Decode Ways](https://leetcode.com/problems/decode-ways/description/)
