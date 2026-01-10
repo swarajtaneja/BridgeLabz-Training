@@ -5,8 +5,8 @@
 
 ---
 
-## 📅 Day 1 – Git and GitHub Setup  
-**Date:** 15-Dec-2025  
+## 📅 **Date:** 15-Dec-2025 – Git and GitHub Setup  
+  
 
 - Installed and configured Git  
 - Set up GitHub repository  
@@ -37,8 +37,8 @@ C:.
 
 
 
-### 🗓 Day 2 – Git Practice & Basic Java Programs  
-**Date:** 16-Dec-2025
+### 🗓 **Date:** 16-Dec-2025 – Git Practice & Basic Java Programs  
+
 
 - Practiced Git workflow to understand commits and version control.
 - Solved very basic Java programs to understand syntax and structure.
@@ -50,8 +50,8 @@ C:.
 ---
 
 
-### 🗓 Day 3 – Programming Elements in Java  
-**Date:** 17-Dec-2025
+### 🗓 **Date:** 17-Dec-2025 – Programming Elements in Java  
+
 
 - Studied Java programming elements:
   - Variables and data types
@@ -67,8 +67,8 @@ C:.
 
 
 
-### 🗓 Day 4 – Control Flow & Logical Constructs  
-**Date:** 18-Dec-2025
+### 🗓 **Date:** 18-Dec-2025 – Control Flow & Logical Constructs  
+
 
 - Studied logical constructs in Java:
   - if, if-else
@@ -90,8 +90,8 @@ C:.
 ---
 
 
-### 🗓 Day 5 – Arrays & Basic Problem Solving  
-**Date:** 19-Dec-2025
+### 🗓 **Date:** 19-Dec-2025 – Arrays & Basic Problem Solving  
+
 
 - Studied arrays in Java:
   - Single-dimensional arrays
@@ -110,8 +110,8 @@ C:.
 ---
 
 
-### 🗓 Day 6 –Concepts & problems on Methods  
-**Date: 20-Dec-2025
+### 🗓 **Date: 20-Dec-2025 –Concepts & problems on Methods  
+
 
 - Studied Java methods:
   - Method declaration
@@ -126,11 +126,8 @@ C:.
 ---
 
 
-# Week 2 : Worked on Strings and Extras Problems
-
----
-## 📅 Day 1 – Strings Concepts & Problems  
-**Date:** 22-Dec-2025 
+## 📅 **Date:** 22-Dec-2025 – Strings Concepts & Problems  
+ 
 
 - [Learn the string concepts](https://docs.google.com/document/d/1-UXHtzpozVZznDVGYivscpQYEL6-vxOFZWiPpvBH5CE/edit?tab=t.0#heading=h.66yv6crqdvrd)
     - Learn about built in methods for strings
@@ -149,8 +146,8 @@ C:.
  ---
  
  
-## 📅 Day 2 – Solve Extras Problems 
-**Date:** 23-Dec-2025 
+## 📅 **Date:** 23-Dec-2025 – Solve Extras Problems 
+ 
 
 - [Extras Problems on String](https://classroom.google.com/c/ODIxNjE3NTg5MDE1/a/ODIxNjE3NTg5MDU3/details)
    - Work on concepts like frequency,substring,anagram etc . about string
@@ -168,9 +165,8 @@ C:.
   👉[Built in functions 2](https://classroom.google.com/c/ODIxNjE3NTg5MDE1/m/ODIxNjE3NTg5MDU5/details)<br>
 
 
-## 📅 Day 3 - Scenario Based and Leetcode based
+## 📅 **Date:** 24-Dec-2025 - Scenario Based and Leetcode based
    --- Scenario based practice-1<br>
-**Date:** 24-Dec-2025<br>
      -Solved Two Scenario-based Problems <br>  
 	
   🔗 **Code Link:** <br>
@@ -179,7 +175,6 @@ C:.
   
 
   --- Leetcode Practice 1<br>
-**Date:** 24-Dec-2025<br>
    - Solved Below problems on leetcode<br>
      - [Two Sum](https://leetcode.com/problems/two-sum/description/)
      - [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)
@@ -192,9 +187,8 @@ C:.
   ---
 
   
-## 📅 Day 4 - Leetcode based
+## 📅 **Date:** 25-Dec-2025 - Leetcode based
   --- Leetcode Practice 2<br>
-**Date:** 25-Dec-2025<br>
    - Solved Below problems on leetcode
      - [Plus One](https://leetcode.com/problems/plus-one/description/)
      - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
@@ -206,10 +200,10 @@ C:.
 
   ---
 
-    
-## 📅 Day 5 - Scenario Based, Leetcode based And Object Oriented Programming
+# Week-2  Object Oriented Programming
+  --- 
+## 📅 **Date:** 26-Dec-2025 - Scenario Based, Leetcode based And Object Oriented Programming
    --- Scenario based practice-2<br>
-**Date:** 26-Dec-2025<br>
      -Solved Three Scenario-based Problems   
 	
   🔗 **Code Link:** <br>
@@ -219,7 +213,6 @@ C:.
   
 
   --- Leetcode Practice practice 3<br>
-**Date:** 26-Dec-2025<br>
    - Solved Below problems on leetcode
      - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
      - [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)
@@ -239,9 +232,8 @@ C:.
 
   ---
  
-## 📅 Day 6 - Leetcode based and Object Oriented Programming 
+## 📅 **Date:** 27-Dec-2025 - Leetcode based and Object Oriented Programming 
   --- Leetcode Practice 4<br>
-**Date:** 27-Dec-2025<br>
    - Solved Below problems on leetcode
      - [String to Integer](https://leetcode.com/problems/string-to-integer-atoi/description/)
      - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)
@@ -262,9 +254,8 @@ C:.
 
   ---
 
-## 📅 Day 7 - Leetcode based
+## 📅 **Date:** 28-Dec-2025 - Leetcode based
   --- Leetcode Practice 5<br>
-**Date:** 28-Dec-2025<br>
    - Solved Below problems on leetcode
      - [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
      - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/3Sum)
@@ -281,11 +272,9 @@ C:.
 
   ---
 
-# Week 3 : Solved Problems and Object Oriented Programming 
     
-## 📅 Day 1 - Scenario Based, Leetcode based and Object Oriented Programming 
+## 📅 **Date:** 29-Dec-2025 - Scenario Based, Leetcode based and Object Oriented Programming 
    --- Scenario based practice-3<br>
-**Date:** 29-Dec-2025<br>
      -Solved Five Scenario-based Problems   
 	
   🔗 **Code Link:** <br>
@@ -297,7 +286,6 @@ C:.
   
 
   --- Leetcode Practice practice 6<br>
-**Date:** 29-Dec-2025<br>
    - Solved Below problems on leetcode
      - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)
      - [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)
@@ -318,9 +306,8 @@ C:.
   ---
  
 
-## 📅 Day 2 - Scenario Based, Leetcode based and Object Oriented Programming 
+## 📅 **Date:** 30-Dec-2025 - Scenario Based, Leetcode based and Object Oriented Programming 
    --- Scenario based practice-4<br>
-**Date:** 30-Dec-2025<br>
      -Solved Five Scenario-based Problems   
 	
   🔗 **Code Link:** <br>
@@ -332,7 +319,6 @@ C:.
   
 
   --- Leetcode Practice practice 7<br>
-**Date:** 30-Dec-2025<br>
    - Solved Below problems on leetcode
      - [Reverse String](https://leetcode.com/problems/reverse-string/description/)
      - [Word Pattern](https://leetcode.com/problems/word-pattern/description/)
@@ -351,9 +337,8 @@ C:.
 
   ---
   
-## 📅 Day 3 - Scenario Based (END-CORE-JAVA-PRACTICE), Leetcode based and Object Oriented Programming 
+## 📅 **Date:** 31-Dec-2025 - Scenario Based (END-CORE-JAVA-PRACTICE), Leetcode based and Object Oriented Programming 
    --- Scenario based practice-5<br>
-**Date:** 31-Dec-2025<br>
      -Solved Five Scenario-based Problems   
 	
   🔗 **Code Link:** <br>
@@ -365,7 +350,6 @@ C:.
   
 
   --- Leetcode Practice practice 8<br>
-**Date:** 31-Dec-2025<br>
    - Solved Below problems on leetcode
      - [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
      - [Single Number](https://leetcode.com/problems/single-number/description/)
@@ -386,9 +370,8 @@ C:.
   ---
   
 
-## 📅 Day 4 - Leetcode based and Object Oriented Programming 
+## 📅 **Date:** 01-Jan-2026 - Leetcode based and Object Oriented Programming 
   --- Leetcode Practice practice 9<br>
-**Date:** 01-Jan-2026<br>
    - Solved Below problems on leetcode
      - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)
      - [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/)
@@ -407,10 +390,10 @@ C:.
 
 
   ---
-
-## 📅 Day 5 - Leetcode based, Scenario-based(OOPS) And Started DSA (Data Structure Algorithms)
+# Week-3 Data Structure Algorithms
+  ---
+## 📅 **Date:** 02-Jan-2026 - Leetcode based, Scenario-based(OOPS) And Started DSA (Data Structure Algorithms)
   --- Leetcode Practice practice 10<br>
-**Date:** 02-Jan-2026<br>
    - Solved Below problems on leetcode
      - [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)
      - [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/)
@@ -441,9 +424,8 @@ C:.
   ---
   
 
-## 📅 Day 6 - Leetcode based, Scenario-based(OOPS) And DSA (Data Structure Algorithms)
+## 📅 **Date:** 03-Jan-2026 - Leetcode based, Scenario-based(OOPS) And DSA (Data Structure Algorithms)
   --- Leetcode Practice practice 11<br>
-**Date:** 03-Jan-2026<br>
    - Solved Below problems on leetcode
      - [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)
      - [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)
@@ -471,9 +453,8 @@ C:.
   ---
 
   
-## 📅 Day 7 - Leetcode based
+## 📅 **Date:** 04-Jan-2026 - Leetcode based
   --- Leetcode Practice practice 12<br>
-**Date:** 04-Jan-2026<br>
    - Solved Below problems on leetcode
      - [Count and Say](https://leetcode.com/problems/count-and-say/description/)
      - [Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)
@@ -485,11 +466,8 @@ C:.
 
   ---
 
-# Week 4 : Solved Problems and 
-
-## 📅 Day 1 - Leetcode based, Scenario-based(OOPS) And DSA (Data Structure Algorithms)
+## 📅 **Date:** 05-Jan-2026 - Leetcode based, Scenario-based(OOPS) And DSA (Data Structure Algorithms)
   --- Leetcode Practice practice 13<br>
-**Date:** 05-Jan-2026<br>
    - Solved Below problems on leetcode
      - [Text Justification](https://leetcode.com/problems/text-justification/description/)
      - [Simplify Path](https://leetcode.com/problems/simplify-path/description/)
@@ -518,9 +496,8 @@ C:.
 
  
   
-## 📅 Day 2 - Leetcode based, Scenario-based(OOPS) And DSA (Data Structure Algorithms)
+## 📅 **Date:** 06-Jan-2026 - Leetcode based, Scenario-based(OOPS) And DSA (Data Structure Algorithms)
   --- Leetcode Practice practice 14<br>
-**Date:** 06-Jan-2026<br>
    - Solved Below problems on leetcode
      - [Scramble String](https://leetcode.com/problems/scramble-string/description/)
      - [Decode Ways](https://leetcode.com/problems/decode-ways/description/)
@@ -531,7 +508,6 @@ C:.
   👉[Code of above Problems](https://github.com/swarajtaneja/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/strings/day-14)
 
   --- Scenario based practice-4<br>
-Date: 06 Jan 2026
      -Solved Four Scenario-based Problems   
 	
   🔗 **Code Link:** <br>
@@ -549,15 +525,57 @@ Date: 06 Jan 2026
      
   ---
 
-## 📅 Day 3 - Scenario-based(OOPS) 
+## 📅 Date: 07 Jan 2026 - Scenario-based(OOPS) and DSA (Data structure Algorithms)
   --- Scenario based practice-5<br>
-Date: 07 Jan 2026<br>
      -Solved Three Scenario-based Problems   
 	
   🔗 **Code Link:** <br>
   👉[Day-5 Book Bazar](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/BookBazar)<br>
   👉[Day-5 Loan Buddy](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/loanbuddy)<br>
   👉[Day-5 Park Ease](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/parkease)<br>
+
+  ---Day 4 Data Structure Algorithms <br>
+     > Studied 1.What is Runtime Analysis? 2. Understanding Big-O Notation<br>
+               3. Time Complexity Analysis 4. Space Complexity Analysis<br>
+               5. Best, Worst, and Average Case Complexities 6. Practical Guidelines for Optimizing Java Code<br>
+     > Solved  programming questions based on - General Algorithm Best Practices, Time and space Complexity Optimization
+     > Pushed the codes to GitHub  
+     Code link  
+     [Day 5: Algorithm's Runtime Analysis & Big-O Notation](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/algorithmanalysis)  
+
+  ---
+  
+  
+## 📅 Date: 08 Jan 2026 --- Scenario based(OOP's) practice-6<br>
+     -Solved Two Scenario-based Problems   
+	
+  🔗 **Code Link:** <br>
+  👉[Day-6 Medi Store](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/medistore)<br>
+  👉[Day-6 Tour Mate](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/tourmate)<br>
+  
+  ---
+  
+  
+## 📅 Date: 09 Jan 2026 - Scenario based(OOP's) practice-7<br>
+     -Solved Three Scenario-based Problems   
+	
+  🔗 **Code Link:** <br>
+  👉[Day-7 Food Loop](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/foodloop)<br>
+  👉[Day-7 Skill Forge](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/skillforge)<br>
+  👉[Day-7 Artify](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/artify)<br>
+  
+  
+  ---
+  
+  
+## 📅 Date: 10 Jan 2026 - (Data Structure Algorithms(Scenario-Based))<br>
+     -Solved Three Scenario-based Problems (Day-1)  
+	
+  🔗 **Code Link:** <br>
+  👉[Day-1 Book Shelf](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bookShelf)<br>
+  👉[Day-1 Browser Buddy](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/browserbuddy)<br>
+  👉[Day-1 Ambulance Route](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/ambulanceroute)<br>
+
 
   ---
 
