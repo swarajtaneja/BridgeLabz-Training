@@ -121,7 +121,7 @@ Date: 08 Jan 2026--- Scenario based(OOP's) practice-6<br>
 
    
 Date: 09 Jan 2026--- Scenario based(OOP's) practice-7<br>
-     -Solved Five Scenario-based Problems   
+     -Solved Three Scenario-based Problems   
 	
   🔗 **Code Link:** <br>
   👉[Day-7 Food Loop](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/foodloop)<br>
