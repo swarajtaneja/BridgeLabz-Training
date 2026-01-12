@@ -57,3 +57,12 @@ Date: 10 Jan 2026  (Data Structure Algorithms(Scenario-Based))<br>
   👉[Day-1 Book Shelf](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bookShelf)<br>
   👉[Day-1 Browser Buddy](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/browserbuddy)<br>
   👉[Day-1 Ambulance Route](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/ambulanceroute)<br>
+
+
+Date: 12 Jan 2026  (Data Structure Algorithms(Scenario-Based))<br>
+     -Solved Three Scenario-based Problems (Day-2)  
+	
+  🔗 **Code Link:** <br>
+  👉[Day-2 Call Center](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/callcenter)<br>
+  👉[Day-2 Train Companion](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/traincompanion)<br>
+  👉[Day-2 Text Editor](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/texteditor)<br>
