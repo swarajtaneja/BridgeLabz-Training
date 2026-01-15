@@ -84,3 +84,12 @@ Date: 13 Jan 2026  (Data Structure Algorithms(Scenario-Based)) AND LeetCode<br>
      - [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)    
   🔗 **Code Link:** <br>
   👉[Code of above Problems](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leetcode-codebase/day-1)<br>
+
+Date: 14 Jan 2026  LeetCode<br>
+
+  --- Leetcode Practice practice 2<br>
+  - Solved Below problems on leetcode<br>
+     - [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)
+     - [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/)    
+  🔗 **Code Link:** <br>
+  👉[Code of above Problems](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leetcode-codebase/day-2)<br>
