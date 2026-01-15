@@ -137,3 +137,10 @@ Date: 12 Jan 2026--- Scenario based(OOP's) practice-8<br>
   👉[Day-8 Home Nest](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/homenest)<br>	 
   
 
+Date: 13 Jan 2026--- Scenario based(OOP's) practice-9<br>
+     -Solved Two Scenario-based Problems  
+  🔗 **Code Link:** <br>
+  👉[Day-9 Pay Xpress](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/payxpress)<br>
+  👉[Day-9 Bird Sanctuary](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/birdsanctuary)<br>
+  
+  
