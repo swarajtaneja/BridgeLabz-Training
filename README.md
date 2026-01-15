@@ -127,4 +127,13 @@ Date: 09 Jan 2026--- Scenario based(OOP's) practice-7<br>
   👉[Day-7 Food Loop](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/foodloop)<br>
   👉[Day-7 Skill Forge](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/skillforge)<br>
   👉[Day-7 Artify](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/artify)<br>
+
+
+Date: 12 Jan 2026--- Scenario based(OOP's) practice-8<br>
+     -Solved Three Scenario-based Problems  
+  🔗 **Code Link:** <br>
+  👉[Day-8 BudgetWise](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/budgetwise)<br>
+  👉[Day-8 Game Box](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/gamebox)<br>
+  👉[Day-8 Home Nest](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/homenest)<br>	 
   
+
