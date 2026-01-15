@@ -1,0 +1,38 @@
+class ReverseNode {
+    public ListNode reverseKGroup(ListNode head, int k) {
+        if (head == null || k == 1) return head;
+
+        ListNode dummy = new ListNode(0);
+        dummy.next = head;
+        ListNode prevGroupEnd = dummy;
+
+        while (true) {
+            ListNode kth = getKthNode(prevGroupEnd, k);
+            if (kth == null) break;
+
+            ListNode groupNext = kth.next;
+            ListNode prev = groupNext;
+            ListNode curr = prevGroupEnd.next;
+
+            while (curr != groupNext) {
+                ListNode temp = curr.next;
+                curr.next = prev;
+                prev = curr;
+                curr = temp;
+            }
+
+            ListNode temp = prevGroupEnd.next;
+            prevGroupEnd.next = kth;
+            prevGroupEnd = temp;
+        }
+        return dummy.next;
+    }
+
+    private ListNode getKthNode(ListNode start, int k) {
+        while (start != null && k > 0) {
+            start = start.next;
+            k--;
+        }
+        return start;
+    }
+}
