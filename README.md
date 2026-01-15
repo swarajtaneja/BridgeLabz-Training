@@ -67,3 +67,20 @@ Date: 12 Jan 2026  (Data Structure Algorithms(Scenario-Based))<br>
   👉[Day-2 Train Companion](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/traincompanion)<br>
   👉[Day-2 Text Editor](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/texteditor)<br>
   👉[Day-2 Traffic Manager](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/trafficmanager)<br>
+
+
+Date: 13 Jan 2026  (Data Structure Algorithms(Scenario-Based)) AND LeetCode<br>
+     -Solved Three Scenario-based Problems (Day-3)
+	 
+  🔗 **Code Link:** <br>
+  👉[Day-3 Exam Proctor](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/examproctor)<br>
+  👉[Day-3 Parcel Tracker](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/parceltracker)<br>
+  👉[Day-3 Smart Checkout](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/smartcheckout)<br>	 
+  
+  --- Leetcode Practice practice 1<br>
+  - Solved Below problems on leetcode<br>
+     - [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)
+     - [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)
+     - [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)    
+  🔗 **Code Link:** <br>
+  👉[Code of above Problems](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leetcode-codebase/day-1)<br>
