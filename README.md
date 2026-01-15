@@ -93,3 +93,22 @@ Date: 14 Jan 2026  LeetCode<br>
      - [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/)    
   🔗 **Code Link:** <br>
   👉[Code of above Problems](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leetcode-codebase/day-2)<br>
+
+
+Date: 15 Jan 2026  (Data Structure Algorithms(Scenario-Based)) AND LeetCode<br>
+     -Solved Five Scenario-based Problems (Day-4)
+	 
+  🔗 **Code Link:** <br>
+  👉[Day-4 Hospital Queue](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/hospitalqueue)<br>
+  👉[Day-4 Smart Shelf](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/smartshelf)<br>
+  👉[Day-4 Zip Zip Mart](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/zipzipmart)<br>
+  👉[Day-4 Event Manager](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/eventmanager)<br>
+  👉[Day-4 Exam Cell](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/examcell)<br>
+  
+  --- Leetcode Practice practice 3<br>
+  - Solved Below problems on leetcode<br>
+     - [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)
+     - [Rotate List](https://leetcode.com/problems/rotate-list/description/)
+     - [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/)    
+  🔗 **Code Link:** <br>
+  👉[Code of above Problems](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leetcode-codebase/day-3)<br>
