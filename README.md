@@ -579,4 +579,56 @@ C:.
 
   ---
 
-    
+## 📅 Date: 12 Jan 2026 - Scenario-Based(OOP's And DSA)<br>  
+     -Solved Four Scenario-based Problems(DSA) (Day-2)
+	
+  🔗 **Code Link:** <br>
+  👉[Day-2 Call Center](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/callcenter)<br>
+  👉[Day-2 Train Companion](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/traincompanion)<br>
+  👉[Day-2 Text Editor](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/texteditor)<br>
+  👉[Day-2 Traffic Manager](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/trafficmanager)<br>
+	 
+	 
+     -Solved Three Scenario-based Problems(OOP's) (Day-8)
+	 
+  🔗 **Code Link:** <br>
+  👉[Day-8 BudgetWise](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/budgetwise)<br>
+  👉[Day-8 Game Box](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/gamebox)<br>
+  👉[Day-8 Home Nest](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/homenest)<br>	 
+  
+  ---
+
+## 📅 Date: 13 Jan 2026 - Scenario-Based(OOP's And DSA) And LeetCode<br> 
+     -Solved Three Scenario-based Problems (DSA) (Day-3)
+	 
+  🔗 **Code Link:** <br>
+  👉[Day-3 Exam Proctor](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/examproctor)<br>
+  👉[Day-3 Parcel Tracker](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/parceltracker)<br>
+  👉[Day-3 Smart Checkout](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/smartcheckout)<br>	
+  
+     -Solved Two Scenario-based Problems (OOP's)(Day-9) 
+  🔗 **Code Link:** <br>
+  👉[Day-9 Pay Xpress](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/payxpress)<br>
+  👉[Day-9 Bird Sanctuary](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/birdsanctuary)<br>
+
+
+     -Leetcode Practice practice (DSA) 1
+   - Solved Below problems on leetcode<br>
+     - [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)
+     - [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)
+     - [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)    
+  🔗 **Code Link:** <br>
+  👉[Code of above Problems](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leetcode-codebase/day-1)<br>
+  
+  ---
+
+## 📅 Date: 14 Jan 2026 - LeetCode (DSA) <br> 
+     - Leetcode Practice practice(DSA) 2
+   - Solved Below problems on leetcode<br>
+     - [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)
+     - [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/)    
+  🔗 **Code Link:** <br>
+  👉[Code of above Problems](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leetcode-codebase/day-2)<br>
+  
+  
+  ---
