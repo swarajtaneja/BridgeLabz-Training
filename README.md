@@ -554,10 +554,19 @@ C:.
   👉[Day-6 Tour Mate](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/tourmate)<br>
   
   ---
-  
-  
-## 📅 Date: 09 Jan 2026 - Scenario based(OOP's) practice-7<br>
-     -Solved Three Scenario-based Problems   
+# Week-4 Java Colletions
+  ---
+## 📅 Date: 09 Jan 2026 - Java collection AND Scenario based(OOP's) practice-7<br>
+
+  ---Day 1 Java collection<br>
+     > Studied Introduction to Generics, Type Parameters, Generic Classes, Generic Methods, Bounded Type Parameters, Wildcards<br>
+     > Solved  programming questions based on Generics<br>
+     > Pushed the codes to GitHub <br> 
+     Code link  <br>
+     [Day 1: Generics ](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/gcr-codebase/JavaCollectionConcepts/src/com/generics) 
+	 
+	 
+  ---Solved Three Scenario-based Problems   
 	
   🔗 **Code Link:** <br>
   👉[Day-7 Food Loop](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/foodloop)<br>
