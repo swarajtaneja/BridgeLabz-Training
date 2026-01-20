@@ -143,4 +143,10 @@ Date: 13 Jan 2026--- Scenario based(OOP's) practice-9<br>
   👉[Day-9 Pay Xpress](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/payxpress)<br>
   👉[Day-9 Bird Sanctuary](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/birdsanctuary)<br>
   
+Date: 17 Jan 2026--- Scenario based(OOP's) practice-10<br>
+     -Solved Two Scenario-based Problems  
+  🔗 **Code Link:** <br>
+  👉[Day-10 Bag N Ball](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bagnball)<br>
+  👉[Day-10 Line Comparison](https://github.com/swarajtaneja/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/linecomparison)<br>
+  
   
