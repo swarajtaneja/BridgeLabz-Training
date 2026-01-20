@@ -112,3 +112,32 @@ Date: 15 Jan 2026  (Data Structure Algorithms(Scenario-Based)) AND LeetCode<br>
      - [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/)    
   🔗 **Code Link:** <br>
   👉[Code of above Problems](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leetcode-codebase/day-3)<br>
+
+
+Date: 16 Jan 2026  (Data Structure Algorithms(Scenario-Based))<br>
+     -Solved Three Scenario-based Problems (Day-5)
+	 
+  🔗 **Code Link:** <br>
+  👉[Day-5 Robo WareHouse](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/robowarehouse)<br>
+  👉[Day-5 Cinema House](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/cinemahouse)<br>
+  👉[Day-5 Crop Monitor](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/cropmonitor)<br>
+
+
+Date: 17 Jan 2026  (Data Structure Algorithms(Scenario-Based))<br>
+     -Solved Four Scenario-based Problems (Day-6)
+	 
+  🔗 **Code Link:** <br>
+  👉[Day-6 Art Expo](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/artexpo)<br>
+  👉[Day-6 Fleet Manager](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/fleetmanager)<br>
+  👉[Day-6 IceCream Rush](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/icecreamrush)<br>
+  👉[Day-6 Smart Library](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/smartlibrary)<br>
+  
+  
+  
+Date: 19 Jan 2026  (Data Structure Algorithms(Scenario-Based))<br>
+     -Solved Three Scenario-based Problems (Day-7)
+	 
+  🔗 **Code Link:** <br>
+  👉[Day-7 Edu Results](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/eduresults)<br>
+  👉[Day-7 FlashDealZ](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/flashdealz)<br>
+  👉[Day-7 Fitness Tracker](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/fitnesstracker)<br>
