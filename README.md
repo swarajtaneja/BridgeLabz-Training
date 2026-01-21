@@ -141,3 +141,21 @@ Date: 19 Jan 2026  (Data Structure Algorithms(Scenario-Based))<br>
   👉[Day-7 Edu Results](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/eduresults)<br>
   👉[Day-7 FlashDealZ](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/flashdealz)<br>
   👉[Day-7 Fitness Tracker](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/fitnesstracker)<br>
+
+
+Date: 20 Jan 2026  (Data Structure Algorithms(Scenario-Based))<br>
+     -Solved Three Scenario-based Problems (Day-8)
+	 
+  🔗 **Code Link:** <br>
+  👉[Day-8 Food Fest](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/foodfest)<br>
+  👉[Day-8 Game Zone](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/gamezone)<br>
+  👉[Day-8 Movie Time](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/movietime)<br>
+  
+  
+Date: 21 Jan 2026  (Data Structure Algorithms(Scenario-Based))<br>
+     -Solved Two Scenario-based Problems (Day-9)
+	 
+  🔗 **Code Link:** <br>
+  👉[Day-9 Tailor Shop](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/tailorshop)<br>
+  👉[Day-9 Ware House](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/warehouse)<br>
+  
