@@ -1,8 +1,10 @@
-package com.JUnit.annotation;
+package com.JUnitTests;
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.Test;
+
+import com.JUnit.annotation.DatabaseConnection;
 
 public class DatabaseConnectionTest {
 

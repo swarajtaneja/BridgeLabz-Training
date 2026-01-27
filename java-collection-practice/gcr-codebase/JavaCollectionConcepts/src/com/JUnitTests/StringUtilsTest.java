@@ -1,6 +1,8 @@
-package com.JUnit.stringutility;
+package com.JUnitTests;
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
+
+import com.JUnit.stringutility.StringUtils;
 
 public class StringUtilsTest {
 

@@ -1,6 +1,8 @@
-package com.JUnit.userregisteration;
+package com.JUnitTests;
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
+
+import com.JUnit.userregisteration.UserRegistration;
 
 public class UserRegistrationTest {
 

@@ -1,6 +1,8 @@
-package com.JUnit.exceptionhandling;
+package com.JUnitTests;
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
+
+import com.JUnit.exceptionhandling.Divider;
 
 public class DividerTest {
 

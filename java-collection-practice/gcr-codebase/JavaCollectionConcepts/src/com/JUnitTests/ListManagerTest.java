@@ -1,8 +1,10 @@
-package com.JUnit.listoperations;
+package com.JUnitTests;
 import static org.junit.jupiter.api.Assertions.*;
 import java.util.ArrayList;
 import java.util.List;
 import org.junit.jupiter.api.Test;
+
+import com.JUnit.listoperations.ListManager;
 
 public class ListManagerTest {
 

@@ -1,7 +1,9 @@
-package com.JUnit.parametrizedtests;
+package com.JUnitTests;
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.ValueSource;
+
+import com.JUnit.parametrizedtests.EvenChecker;
 
 public class EvenCheckerTest {
 

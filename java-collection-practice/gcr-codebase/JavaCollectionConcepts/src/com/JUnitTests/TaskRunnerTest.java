@@ -1,7 +1,11 @@
-package com.JUnit.performancetesting;
+
+package com.JUnitTests;
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.Timeout;
+
+import com.JUnit.performancetesting.TaskRunner;
+
 import java.util.concurrent.TimeUnit;
 
 public class TaskRunnerTest {

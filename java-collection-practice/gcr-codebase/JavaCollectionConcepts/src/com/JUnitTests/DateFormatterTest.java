@@ -1,6 +1,8 @@
-package com.JUnit.DateFormatter;
+package com.JUnitTests;
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
+
+import com.JUnit.DateFormatter.DateFormatter;
 
 public class DateFormatterTest {
 

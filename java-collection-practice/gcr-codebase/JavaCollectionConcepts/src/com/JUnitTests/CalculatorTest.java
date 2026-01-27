@@ -1,7 +1,9 @@
-package com.JUnit.calculator;
+package com.JUnitTests;
 
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
+
+import com.JUnit.calculator.Calculator;
 
 public class CalculatorTest {
 
